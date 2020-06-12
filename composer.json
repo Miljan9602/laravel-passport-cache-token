@@ -1,11 +1,15 @@
 {
-    "name": "overtrue/laravel-passport-cache-token",
+    "name": "miljan9602/laravel-passport-cache-token",
     "description": "Make laravel/passport token cacheable.",
     "license": "MIT",
     "authors": [
         {
             "name": "overtrue",
             "email": "anzhengchao@gmail.com"
+        },
+        {
+            "name": "Miljan9602",
+            "email": "rakitamiljan@yahoo.com"
         }
     ],
     "require": {
